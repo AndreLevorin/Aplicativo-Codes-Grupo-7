@@ -9,23 +9,23 @@ document.addEventListener('DOMContentLoaded', function(){
     botao5.addEventListener('click', function(event){
         if (click5==false){
 
-            lista[0].src = "/Images/jb_1740.jpeg"
-            lista[1].src = "/Images/jb_1685.jpeg"
-            lista[2].src = "/Images/jb_625.jpeg"
-            lista[3].src = "/Images/jb_1590.jpeg"
-            lista[4].src = "/Images/jb_1550.jpeg"
-            lista[5].src = "/Images/jb_1500.jpeg"
+            lista[0].src = "Images/jb_1740.jpeg"
+            lista[1].src = "Images/jb_1685.jpeg"
+            lista[2].src = "Images/jb_625.jpeg"
+            lista[3].src = "Images/jb_1590.jpeg"
+            lista[4].src = "Images/jb_1550.jpeg"
+            lista[5].src = "Images/jb_1500.jpeg"
             click5 = true
         }
     
         else{
 
-            lista[0].src = "/Images/jb_1500.jpeg"
-            lista[1].src = "/Images/jb_1550.jpeg"
-            lista[2].src = "/Images/jb_1590.jpeg"
-            lista[3].src = "/Images/jb_625.jpeg"
-            lista[4].src = "/Images/jb_1685.jpeg"
-            lista[5].src = "/Images/jb_1740.jpeg" 
+            lista[0].src = "Images/jb_1500.jpeg"
+            lista[1].src = "Images/jb_1550.jpeg"
+            lista[2].src = "Images/jb_1590.jpeg"
+            lista[3].src = "Images/jb_625.jpeg"
+            lista[4].src = "Images/jb_1685.jpeg"
+            lista[5].src = "Images/jb_1740.jpeg" 
             click5 = false
         }
 
