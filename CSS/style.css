@@ -1,0 +1,337 @@
+.titulo {
+    font-family: sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+.textolongo {
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+}
+
+
+.compra {
+  background-color: #664eae;
+  padding: 10px;
+  overflow:hidden;
+  display: flex;
+  justify-content: center;
+  color: white;
+
+
+}
+
+.fundo {
+  background-color: #e9e9e9;
+}
+
+.check{
+
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height:120px;
+  width: 120px;
+}
+
+
+body{
+  background-color: #e8e8e8;
+}
+
+.espacamento{
+  margin: 0;
+  padding: 0;
+}
+
+.anunciar_ingresso {
+  background-color: #664eae;
+  padding: 10px;
+  overflow:hidden;
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  text-decoration: none; 
+
+
+  text-decoration: none; 
+
+
+}
+
+
+.user {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 120px;
+  width: 120px;
+}
+
+.cartao1 {
+  height: 60px;
+  width: 60px;
+}
+.cartao2 {
+  height: 60px;
+  width: 60px;
+}
+.cartao3 {
+  height: 60px;
+  width: 60px;
+}
+
+.pic_pay {
+  height: 45px;
+  width: 135px;
+  vertical-align: middle;
+
+}
+
+.center_text {
+  background-color: #664eae;
+  padding: 10px;
+  overflow:hidden;
+  display: flex;
+  justify-content: center;
+  color: white;
+
+}
+
+.center_t {
+  display: flex;
+  justify-content: center;
+  color: black;
+
+}
+
+.confirm {
+  background-color: #664eae;
+  overflow:hidden;
+  display: flex;
+  justify-content: center;
+  color: black;
+
+}
+
+
+
+
+.pagamento {
+
+    font-family: sans-serif;
+}
+
+
+
+.diminuir {
+
+    height: 35px;
+    width: 35px;
+}
+
+
+.lupa {
+
+    height: 16px;
+    width: 16px;
+}
+
+.diminuir1 {
+
+    height: 60px;
+    width: 60px;
+}
+
+.diminuir2 {
+
+    height: 160px;
+    width: 160px;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 260px;
+    width: 260px;
+    border: solid  #664eae;
+    border-width: 3px;
+    overflow:hidden;
+}
+
+.qr-code {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height:120px;
+  width: 120px;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    justify-content: space-evenly;
+  }
+
+
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #664eae;
+}
+.outline{
+    padding: 10px;
+    border: solid  #664eae;
+    border-width: 3px;
+    overflow:hidden;
+}
+
+.outline_centro{
+    padding: 10px;
+    border: solid  #e8e8e8;
+    border-width: 3px;
+    overflow:hidden;
+    display: flex;
+    justify-content: center;
+}
+
+  
+  .topnav a {
+
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  
+  .topnav a.active {
+    background-color: #664eae;
+    color: white;
+  }
+
+  .topnav a.active_2 {
+    background-color: #664eae;
+    color: white;
+  }
+  
+  .topnav .search-container {
+    float: left;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  .topnav .search-bar {
+    float: inline-start
+  }
+
+  .topnav .search-container button {
+    float: left;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #664eae;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .topnav .search-container button:hover {
+    background: #e8e8e8;
+  }
+  
+
+
+.secundaria{
+  color: black;
+  font-family:'Noto Serif', serif;
+
+}
+
+
+.principal{
+  font-family:'Noto Sans', sans-serif;
+
+}
+
+
+.sort{
+  height: 18px;
+  width: 18px;
+}
+
+.filtrar{
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+.filtrar p {
+  margin-right: 10px;
+}
+
+
+.organiza{
+  height: 160px;
+  width: 160px;
+}
+
+.organiza1{
+  height: 160px;
+  width: 160px;
+}
+
+.organiza2{
+  height: 160px;
+  width: 160px;
+}
+
+.organiza3{
+  height: 160px;
+  width: 160px;
+}
+
+.organiza4{
+  height: 160px;
+  width: 160px;
+}
+
+.organiza5{
+  height: 160px;
+  width: 160px;
+}
+
